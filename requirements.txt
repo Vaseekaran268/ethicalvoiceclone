@@ -5,3 +5,4 @@ soundfile
 audioread
 numba
 scipy
+pyttsx3
