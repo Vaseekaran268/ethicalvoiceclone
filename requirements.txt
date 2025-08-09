@@ -1,11 +1,7 @@
 streamlit
-torch
-torchaudio
 numpy
-scipy
 librosa
-TTS
-pyttsx3
-requests
-elevenlabs
-sqlite3
+soundfile
+audioread
+numba
+scipy
