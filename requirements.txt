@@ -6,4 +6,5 @@ audioread
 numba
 scipy
 pyttsx3
-
+torch
+torchaudio
