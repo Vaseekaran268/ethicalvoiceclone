@@ -6,5 +6,4 @@ audioread
 numba
 scipy
 pyttsx3
-pyaudio
 
