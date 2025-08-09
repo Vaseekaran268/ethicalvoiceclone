@@ -8,3 +8,4 @@ scipy
 pyttsx3
 torch
 torchaudio
+requests
