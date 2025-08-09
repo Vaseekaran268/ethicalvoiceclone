@@ -6,5 +6,5 @@ audioread
 numba
 scipy
 pyttsx3
-TTS
-sqlite3
+pyaudio
+gTTS
