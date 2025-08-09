@@ -9,3 +9,5 @@ pyttsx3
 torch
 torchaudio
 requests
+plotly
+matplotlib
