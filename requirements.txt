@@ -11,3 +11,4 @@ torchaudio
 requests
 plotly
 matplotlib
+gTTS
