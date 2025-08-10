@@ -20,7 +20,7 @@ from elevenlabs_integration import (
 from voice_cloning_engine import VoiceCloningEngine
 
 # ElevenLabs API Key (in production, use environment variables)
-ELEVENLABS_API_KEY = "sk_41e50eb5f2f1733635044711930a64afcab410374fad0fec"
+ELEVENLABS_API_KEY = "sk_41e50eb5f2f17374fad0fec"
 
 # Try to import TTS libraries
 try:
