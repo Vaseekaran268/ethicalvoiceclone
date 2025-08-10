@@ -12,4 +12,4 @@ requests
 plotly
 matplotlib
 gTTS
-espeak-ng
+
