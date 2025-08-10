@@ -12,7 +12,4 @@ requests
 plotly
 matplotlib
 gTTS
-os
-io
-base64
-pathfile
+
